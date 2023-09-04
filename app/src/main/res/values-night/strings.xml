@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Time recording</string>
+    <string name="LabelStartTime">Start time</string>
+    <string name="LabelEndTime">End Time</string>
+    <string name="ButtonStart">Starting</string>
+    <string name="HeaderStartTime">Starttime</string>
+    <string name="HeaderEndTime">Finishtime</string>
+    <string name="ListDataLabel">List</string>
+
+</resources>

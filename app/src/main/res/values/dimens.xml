@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="RowCtxPadding">10dp</dimen>
+    <dimen name="RowHPadding" />
+    <dimen name="RowVPadding" />
+    <dimen name="ColRuleWidth" />
+    <dimen name="RowRuleHeight" >1dp</dimen>
+    <dimen name="ColSpace">4dp</dimen>
+    <dimen name="ElementPadding">8dp</dimen>
+</resources>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Zeiterfassung</string>
+    <string name="LabelStartTime" >Startzeit</string>
+    <string name="LabelEndTime" >Endzeit</string>
+    <string name="ButtonStart" >Starten</string>
+    <string name="HeaderStartTime" >Starten</string>
+    <string name="HeaderEndTime" >beenden</string>
+    <string name="ListDataLabel"> Auflistung</string>
+    <string name="ButtonEnd">Beende</string>
+    <string name="MenuItemDelete">Löschen</string>
+    <string name="MenuItemListData">item</string>
+    <string name="ButtonCancel">Cancel</string>
+    <string name="DialogMessageDelete">Wollen Sie die aufgezeichnete Arbeitszeit löschen?</string>
+    <string name="DialogTitleDelete">Titledelete</string>
+    <string name="startTimeValue">Startzeit</string>
+    <string name="endDataValue">Enddatum</string>
+    <string name="endTimeValue" >Endzeit</string>
+    <string name="EditDataLabel">Bearbeiten</string>
+    <string name="LabelComment">Kommrntar:</string>
+    <string name="LabelPause">Psuse:</string>
+    <string name="MenuItemExport">Export</string>
+    <string name="ChannelName">Export</string>
+    <string name="ChannelDescription">CSV Export</string>
+    <string name="ExportNotificationTitle">CSV Export</string>
+    <string name="ExportNotificationMessage">Daten werden in eine CSV-Datei exportiert.</string>
+    <string name="ExportNotificationFinished">Export abgeschlossen.</string>
+    <string name="MenuItemInfo">Info</string>
+    <string name="IntoLabel">Info</string>
+
+</resources>
